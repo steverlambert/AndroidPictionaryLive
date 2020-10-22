@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PartyGameParty</string>
+    <string name="maintitle">Party Game Party!</string>
+    <string name="catchtitle">Catch Phrase!</string>
+    <string name="pictitle">Pictionary!</string>
+    <string name="fishbowl">Fishbowl!</string>
+    <string name="teamone">Team One: </string>
+    <string name="teamtwo">Team Two: </string>
+</resources>

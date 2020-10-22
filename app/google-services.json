@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "778808175038",
+    "firebase_url": "https://partygameparty.firebaseio.com",
+    "project_id": "partygameparty",
+    "storage_bucket": "partygameparty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778808175038:android:160943441319547def31ef",
+        "android_client_info": {
+          "package_name": "com.example.partygameparty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778808175038-u5vjqqj09697117s4b1p9s2ced3rtina.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAelKkro_TEWfGxLXOkhB7hH_rl1XzT0kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778808175038-u5vjqqj09697117s4b1p9s2ced3rtina.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
