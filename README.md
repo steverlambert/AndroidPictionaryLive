@@ -8,9 +8,9 @@ Catch phrase and fishbowl require only a single phone.
 Pictionary requires at least two phones.
 The drawings of the host are mirrored on the non-host phones.
 
-![Homepage](https://github.com/steverlambert/AndroidPictionaryLive/blob/master/images/app.png)
+![Homepage](https://github.com/steverlambert/AndroidPictionaryLive/blob/main/images/app.png)
 
-![Pictionary](https://github.com/steverlambert/AndroidPictionaryLive/blob/master/images/pictionary.png)
+![Pictionary](https://github.com/steverlambert/AndroidPictionaryLive/blob/main/images/pictionary.png)
 
 # Setup
 Create and connect a Firebase Realtime Database by following these instructions:  
